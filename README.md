@@ -3,13 +3,14 @@
 Technologies used:
 - [Vue.js 2](https://vuejs.org/)
 - [Vue Router 2](https://router.vuejs.org/en/)
-- [Vuex](https://vuex.vuejs.org/en/)
-- [Axios](https://github.com/axios/axios)
-- [VueHttp](https://github.com/pagekit/vue-resource/)
 - [Mdbootstrap for Vue.js](https://mdbootstrap.com/)
 
 Backend:
+
 - [Lumen 5.8](https://lumen.laravel.com/)
+- [Axios](https://github.com/axios/axios)
+- [Vuex](https://vuex.vuejs.org/en/)
+- [VueHttp](https://github.com/pagekit/vue-resource/)
 
 ## Quick Start
 
