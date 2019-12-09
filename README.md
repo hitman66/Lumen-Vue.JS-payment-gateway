@@ -33,7 +33,7 @@ yarn install # or npm install
 yarn dev # or npm run dev
 ```
 
-### What are the params you would need from your merchant and what response would you return back
+## What are the params you would need from your merchant and what response would you return back
 
 For this system alone it only require few parts of it :_
 
@@ -60,11 +60,11 @@ The response that I should give would be :_
 - Status ID that states that the information order has been given in.
 - Token that identifies which order is coming from.
 
-### Webhook Implementation - how do you plan to do this?
+## Webhook Implementation - how do you plan to do this?
 
 We give out the private url that basically works as a reference of each merchant/web owner that is willing to use the services. On top of that we will be giving out the API-key to ensure that the receiving data will always be the genuine one.
 
-### Unit Testing
+## Unit Testing
 
 I'm using Laragon for windows which works well with lumen framework and vue.js framework. All things considered.
 
